@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajaykumar</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
-- 🔭 I’m currently Learning new technologies
+- 🔭 I’m currently learning and experimenting with:
+- How to connect different modules in ReactJS- Context API for Global State, Code Splitting and Dynamic Imports
+- Spring Security, Spring Elasaticsearch in Spring
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
