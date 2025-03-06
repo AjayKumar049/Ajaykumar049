@@ -49,10 +49,9 @@
 ---
 
 ## 📫 Connect With Me  
-🔗 **Portfolio:**  https://ajaykumar049.github.io/Portfolio1.0/
-📧 **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)  
-💼 **LinkedIn:** https://www.linkedin.com/in/ajay-wade-b48214222/  
-🐦 
+🔗<a href="https://ajaykumar049.github.io/Portfolio1.0/">Portfolio</a>   
+📧 <a href="https://www.linkedin.com/in/ajay-wade-b48214222/">LinkedIn</a>
+
 
 ---
 
