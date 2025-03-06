@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 💻 **FullStack Developer** | 🚀 **Passionate Coder**  
-🔹 Enthusiastic about building web apps, APIs, and solving real-world problems.  
+🔹 Enthusiastic about building Web apps, APIs, and solving real-world problems.  
 🔹 I love working with **React, Spring Boot, PostgreSQL, and Java**.  
 
 ---
