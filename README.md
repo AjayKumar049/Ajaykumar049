@@ -28,7 +28,7 @@
 **Tools & Others:**  
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  
+
 
 ---
 
@@ -53,7 +53,4 @@
 📧 <a href="https://www.linkedin.com/in/ajay-wade-b48214222/">LinkedIn</a>
 
 
----
 
-### 🎯 Fun Fact  
-🔥 "Coding is like humor. If you have to explain it, it’s bad." 😆  
