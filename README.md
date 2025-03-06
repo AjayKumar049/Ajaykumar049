@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ajay 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=FullStack+Developer;Aspiring+Freelancer;Passionate+Coder+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=FullStack+Developer;Passionate+Coder+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
@@ -49,10 +49,10 @@
 ---
 
 ## 📫 Connect With Me  
-🔗 **Portfolio:** [your-portfolio-link](#)  
+🔗 **Portfolio:**  https://ajaykumar049.github.io/Portfolio1.0/
 📧 **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)  
-💼 **LinkedIn:** [your-linkedin-profile](#)  
-🐦 **Twitter:** [your-twitter-profile](#)  
+💼 **LinkedIn:** https://www.linkedin.com/in/ajay-wade-b48214222/  
+🐦 
 
 ---
 
