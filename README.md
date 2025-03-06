@@ -7,9 +7,9 @@
 ---
 
 ## 🚀 About Me  
-💻 **FullStack Developer** | 📌 **Freelancer** | 🚀 **Passionate Coder**  
+💻 **FullStack Developer** | 🚀 **Passionate Coder**  
 🔹 Enthusiastic about building web apps, APIs, and solving real-world problems.  
-🔹 I love working with **React, Spring Boot, PostgreSQL, and Python**.  
+🔹 I love working with **React, Spring Boot, PostgreSQL, and Java**.  
 
 ---
 
@@ -35,15 +35,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajaykumar049&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykumar049&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykumar049&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
