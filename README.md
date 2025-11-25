@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ajay Kumar 👋</h1>
+<h1 align="center">Hi, I'm Ajaykumar 👋</h1>
 
 <p align="center">
   <strong>Enthusiastic Full Stack Developer | Spring Boot | ReactJS | JavaScript | TailwindCSS | Vite</strong>
