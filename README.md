@@ -37,7 +37,14 @@ I enjoy developing user-friendly UIs, secure backend APIs, and complete end-to-e
 ---
 
 ## 📌 Projects
-### 🔹 Employee Management System
+
+### REST API Development
+- Developed using Spring Boot, JDBC, and PostgreSQL.
+- Implements a complete REST API architecture with MVC design, Spring Security, custom exception handling, structured try–catch blocks, centralized Spring logging, and JDBC-based data access.
+- Actively working on integrating a Forgot Password feature using a third-party API, implementing unit testing to enhance reliability, and creating API documentation using Swagger for clear and interactive endpoint visualization.
+-
+-
+### Employee Management System
 - CRUD application using ReactJS + Spring Boot  
 - REST API integration  
 - PostgreSQL database  
