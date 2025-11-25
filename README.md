@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-Full Stack Developer skilled in **Spring Boot**, **ReactJS**, **HTML**, **CSS**, and **JavaScript**, focused on building  
+Full Stack Developer skilled in **Spring Boot**, **ReactJS**, **HTML5**, **CSS**, and **JavaScript**, focused on building  
 clean, scalable, and high-performance web applications.  
 I enjoy developing user-friendly UIs, secure backend APIs, and complete end-to-end solutions.
 
