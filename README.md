@@ -46,8 +46,8 @@ I enjoy developing user-friendly UIs, secure backend APIs, and complete end-to-e
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AjayKumar098&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayKumar098&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AjayKumar049&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayKumar049&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
