@@ -42,13 +42,6 @@ I enjoy developing user-friendly UIs, secure backend APIs, and complete end-to-e
 - REST API integration  
 - PostgreSQL database  
 - Solved port conflict using research & debugging (GFG reference)
-
-## 📈 GitHub Stats
-
-<p align="left">
-  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AjayKumar098&theme=tokyonight)
-</p>
-
 ---
 
 ## 
