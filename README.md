@@ -1,56 +1,80 @@
-<h1 align="center">Hi there, I'm Ajay 👋</h1>
+<h1 align="center">Hi, I'm Ajay Kumar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=FullStack+Developer;Passionate+Coder+%F0%9F%92%BB" alt="Typing SVG" />
+  <strong>Enthusiastic Full Stack Developer | Spring Boot | ReactJS | JavaScript | TailwindCSS | Vite</strong>
 </p>
 
 ---
 
-## 🚀 About Me  
-💻 **FullStack Developer** | 🚀 **Passionate Coder**  
-🔹 Enthusiastic about building Web apps, APIs, and solving real-world problems.  
-🔹 I love working with **React, Spring Boot, PostgreSQL, and Java**.  
+## 🚀 About Me
+Full Stack Developer skilled in **Spring Boot**, **ReactJS**, **HTML**, **CSS**, and **JavaScript**, focused on building  
+clean, scalable, and high-performance web applications.  
+I enjoy developing user-friendly UIs, secure backend APIs, and complete end-to-end solutions.
 
 ---
 
-## 🛠️ Tech Stack  
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)  
+## 🛠️ Tech Stack
 
-**Backend:**  
-![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)  
+**Frontend:**
+- ReactJS  
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
 
-**Tools & Others:**  
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)  
+**Backend:**
+- Spring Boot  
+- Java  
+- REST API  
 
+**Database:**
+- PostgreSQL  
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajaykumar049&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaykumar049&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykumar049&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
+**Others:**
+- Git & GitHub  
+- JSON  
+- Postman  
 
 ---
 
-## 📫 Connect With Me  
-🔗<a href="https://ajaykumar049.github.io/Portfolio1.0/">Portfolio</a>   
-📧 <a href="https://www.linkedin.com/in/ajay-wade-b48214222/">LinkedIn</a>
+## 📌 Projects
+### 🔹 Employee Management System
+- CRUD application using ReactJS + Spring Boot  
+- REST API integration  
+- PostgreSQL database  
+- Solved port conflict using research & debugging (GFG reference)
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AjayKumar098&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayKumar098&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 
+`#FullStackDeveloper`  
+`#SpringBoot`  
+`#ReactJS`  
+`#JavaDeveloper`  
+`#JavaScript`  
+`#HTML`  
+`#CSS`  
+`#WebDevelopment`  
+`#FrontendDeveloper`  
+`#BackendDeveloper`  
+`#RESTAPI`  
+`#GitHubProjects`  
+`#ScalableApplications`  
+`#CleanCode`  
+
+---
+
+## 📫 Connect with me  
+https://ajaykumar-portfolio-2025.netlify.app/
 
 
 
+
+
+Just tell me!
